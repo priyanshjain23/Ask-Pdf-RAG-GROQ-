@@ -1,4 +1,5 @@
 ### Setup
+1. python -m venv venv (virtual env creation)
 2. cd dir
 3. pip install -r requirements.txt
 4. Install Ollama (https://ollama.com/download)
